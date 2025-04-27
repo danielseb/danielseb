@@ -1,6 +1,6 @@
 ## Hi, I'm Daniel 👋
 
-Welcome to my portfolio, showcasing a selection of projects and certifications that demonstrate my practical expertise and evolving specialization in cybersecurity and technology. I am committed to continually expanding my skills and contributing to the advancement of secure systems and practices.
+Welcome to my portfolio, showcasing a selection of projects and certifications that demonstrate my practical expertise and evolving specialisation in cybersecurity and technology. I am committed to continually expanding my skills and contributing to the advancement of secure systems and practices.
 
 
 ## 🖥️ Project Overview 
