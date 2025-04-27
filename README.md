@@ -1,13 +1,13 @@
 ## Hi, I'm Daniel 👋
 
-Welcome to my portfolio, showcasing a selection of projects and certifications that demonstrate my practical expertise and evolving specialisation in cybersecurity and technology. I am committed to continually expanding my skills and contributing to the advancement of secure systems and practices.
+Welcome to my portfolio, showcasing a selection of projects and certifications that demonstrate my practical expertise and evolving specialisation in cybersecurity and technology. 
 
 
 ## 🖥️ Project Overview 
 |     Project     |                 Skills                |     Tools       |      Link       |
 | --------------- | ------------------------------------- | --------------- | --------------- |
-| Building a SIEM | Log management, Security Archtecture  | LogRhythm, Azure|  <a href="[https://google.com]https://github.com/iMentorYT/SIEM/tree/main">SIEM</a>   |
-|                 |                                       |                 |                 |
+| Tool for scraping data from a ransomware leak site hosted on the dark web | Security Automation, Scripting, Web Scraping  | Python, Playwright |  <a href="https://github.com/danielseb/leak_site_scraper">Repo</a>   |
+| Tool for extracting browser artefacts from forensic images                | Digital Forensics   | Python, SQL | <a href="https://github.com/danielseb/browser-forensic-tool">Repo</a> |
 |                 |                                       |                 |                 |
 
 
